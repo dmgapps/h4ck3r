@@ -1,3 +1,4 @@
 [20-Aug-2014 23:12:07 UTC] PHP Notice:  Undefined property: stdClass::$id in /home/yourcircleapp/public_html/authorized/app/buildApp2.php on line 169
 [20-Aug-2014 23:13:24 UTC] PHP Notice:  Undefined property: stdClass::$id in /home/yourcircleapp/public_html/authorized/app/buildApp2.php on line 169
 [20-Aug-2014 23:13:38 UTC] PHP Notice:  Undefined property: stdClass::$id in /home/yourcircleapp/public_html/authorized/app/buildApp2.php on line 169
+[20-Aug-2014 23:16:21 UTC] PHP Notice:  Undefined property: stdClass::$id in /home/yourcircleapp/public_html/authorized/app/buildApp2.php on line 169
