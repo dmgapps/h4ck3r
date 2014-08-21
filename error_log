@@ -5142,3 +5142,4 @@
 [21-Aug-2014 02:26:12 UTC] PHP Notice:  Undefined property: stdClass::$status in /home/yourcircleapp/public_html/authorized/app/buildApp2.php on line 196
 [21-Aug-2014 02:26:12 UTC] PHP Notice:  Trying to get property of non-object in /home/yourcircleapp/public_html/authorized/app/buildApp2.php on line 196
 [21-Aug-2014 02:29:37 UTC] PHP Notice:  Undefined property: stdClass::$id in /home/yourcircleapp/public_html/authorized/app/buildApp2.php on line 167
+[21-Aug-2014 02:29:58 UTC] PHP Notice:  Undefined property: stdClass::$id in /home/yourcircleapp/public_html/authorized/app/buildApp2.php on line 167
